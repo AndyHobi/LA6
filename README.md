@@ -1,2 +1,2 @@
 # LA6
-Lab Assignment 6
+Authors: Andy Hobelsberger & Lucas Buck
